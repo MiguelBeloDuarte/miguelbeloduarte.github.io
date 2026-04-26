@@ -4451,3 +4451,8 @@ td:last-child {
 .s-intro__btn-download .btn--stroke::before {
     display: none !important;
 }
+
+.s-intro__btn-download .btn::before,
+.s-intro__btn-download .btn--stroke::before {
+    display: none !important;
+}
