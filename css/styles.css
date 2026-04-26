@@ -4441,3 +4441,9 @@ td:last-child {
         right: -2rem;
     }
 }
+
+.s-intro__btn-download .btn--stroke,
+.s-intro__btn-download .btn--stroke:link,
+.s-intro__btn-download .btn--stroke:visited {
+    text-decoration: none !important;
+}
