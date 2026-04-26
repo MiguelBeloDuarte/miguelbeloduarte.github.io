@@ -4447,3 +4447,7 @@ td:last-child {
 .s-intro__btn-download .btn--stroke:visited {
     text-decoration: none !important;
 }
+
+.s-intro__btn-download .btn--stroke::before {
+    display: none !important;
+}
